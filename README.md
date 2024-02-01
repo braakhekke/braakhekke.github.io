@@ -7,6 +7,4 @@ My name is Jochem Braakhekke. I am a scientific consultant at the [National Poin
 print("Hello World")
 ```
 
-![](images/Jochem_small_BW.jpeg)
-
 ![](private/Jochem_SXS.jpeg)
